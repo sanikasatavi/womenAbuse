@@ -47,4 +47,4 @@ The dashboard provides the following key insights:
 ---
 
 ## Screenshot
-https://github.com/sanikasatavi/womenAbuse/blob/main/womendash.png
+![Dashboard Preview](https://github.com/sanikasatavi/womenAbuse/blob/main/womendash.png)

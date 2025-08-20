@@ -45,3 +45,6 @@ The dashboard provides the following key insights:
 - 🎯 **Awareness & Policy support** – Helps policymakers, NGOs, and researchers identify focus areas  
 
 ---
+
+## Screenshot
+https://github.com/sanikasatavi/womenAbuse/blob/main/womendash.png
